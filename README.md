@@ -137,3 +137,12 @@ Special thanks to **Andrej Karpathy** for creating one of the best educational d
 ## License
 
 This project is licensed under the MIT License.
+
+<!-- Repository Structure
+Makemore/
+├── data/               # Datasets
+├── notebooks/          # Exploratory notebooks (optional)
+├── src/                # Model implementations
+├── utils/              # Helper functions
+├── checkpoints/        # Saved models (optional)
+└── README.md -->
